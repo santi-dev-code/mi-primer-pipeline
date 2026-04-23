@@ -8,6 +8,6 @@ test('sumar(2, 3) debe retornar 5', () => {
 });
 
 // Prueba 2: ¿El saludo es correcto?
-test('saludo() debe retornar Hola Mundo', () => {
-  expect(saludo()).toBe('Hola Mundo');
+test('saludo() debe retornar Hola Arquitectos', () => {
+  expect(saludo()).toBe('Hola Arquitectos');
 });

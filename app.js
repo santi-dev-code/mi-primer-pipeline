@@ -5,7 +5,7 @@ function sumar(a, b) {
 }
 
 function saludo() {
-  return "Hola Mundo";
+  return "Hola Arquitectos";
 }
 
 module.exports = { sumar, saludo };
